@@ -6,7 +6,6 @@ interface INavbar {
 
 }
 
-
 const pages = ['Products', 'Pricing', 'Blog'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
